@@ -1,15 +1,15 @@
 ### 2025 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: `102`  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: `NINJAS IN SD`    
 
 #### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
 
-#### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
+#### Team Members `Adith Kadam Ramesh - AdithKadam, Daksha Gupta - Daksh3298, Dhrumil Panchal - DhrumilPanchal10, Hrushik Mehta - hrushh22`
 
 #### Your teamâ€™s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### `VoiceLink Tap. Speak. Find real help nearby. A voice-first AI web assistant that connects people experiencing homelessness with critical services in seconds. No apps, no logins, no barriers.`
 
 #### A visual
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/images/big_data_2025_clip.png?raw=true "Big Data Hackathon for San Diego 2025")
